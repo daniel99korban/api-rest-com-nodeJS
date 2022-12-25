@@ -40,7 +40,8 @@ Constantes para facilitar leitura de [*http status code*](https://restfulapi.net
 
 ### Ferramenta para teste da API
 
-[![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
+![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+[*Postman*](https://www.postman.com/)
 
 ### Código para simular os dados de **users**(a API sem conexão com o BD)
 ~~~TypeScript
