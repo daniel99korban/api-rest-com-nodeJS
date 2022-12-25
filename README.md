@@ -33,3 +33,7 @@ Constantes para facilitar leitura de http status code
 
 ### `npm run build`
 ### `npm run start`
+
+## Compilar e startar a aplicação de forma automática
+
+### `npm run dev`
