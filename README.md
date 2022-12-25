@@ -28,6 +28,14 @@ auto complete nas bibliotecas gerais do [*express*](https://g.co/kgs/XAWazj)
 
 ### `npm install --save http-status-codes`
 Constantes para facilitar leitura de [*http status code*](https://restfulapi.net/http-status-codes/)
+<br>Exemplo:
+
+~~~TypeScript
+res.status(StatusCodes.OK);// OK = 200
+res.status(StatusCodes.CREATED);// CREATED = 201
+res.sendStatus(StatusCodes.NOT_FOUND); // NOT_FOUND = 404
+...
+~~~
 
 ### Compilar e startar a aplicação
 
