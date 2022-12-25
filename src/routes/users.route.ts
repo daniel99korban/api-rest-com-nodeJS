@@ -3,7 +3,7 @@ import { StatusCodes } from 'http-status-codes/build/cjs/status-codes';
 
 const usersRoute = Router();
 // teste simulando os dados
-const users = [{ id: 1, nome: "Daniel" }, { id: 2, nome: "Hozana" }, { id: 3, nome: "Samara" }];
+const users = [{ id: 1, nome: "João" }, { id: 2, nome: "Maria" }, { id: 3, nome: "Jose" }];
 // GET
 usersRoute.get('/users', (req: Request, res: Response, next: NextFunction) => {
     res.status(StatusCodes.OK).json(users);

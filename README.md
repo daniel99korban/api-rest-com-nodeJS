@@ -20,13 +20,13 @@ biblioteca que fará a transpilação d codigo <b>js</b> para <b>ts</b>
 ### `npm install --save-dev @types/node`
 auto complete nas bibliotecas gerais do node
 
-## `npm install --save express`
+### `npm install --save express`
 biblioteca para criação de rotas da API
 
 ### `npm install --save-dev @types/express`
 auto complete nas bibliotecas gerais do express
 
-## `npm install --save http-status-codes`
+### `npm install --save http-status-codes`
 Constantes para facilitar leitura de http status code
 
 ## Compilar e startar a aplicação
@@ -37,3 +37,7 @@ Constantes para facilitar leitura de http status code
 ## Compilar e startar a aplicação de forma automática
 
 ### `npm run dev`
+
+## Ferramenta para testar a API
+
+[![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)
