@@ -24,7 +24,7 @@ auto complete nas bibliotecas gerais do [*nodeJS*](https://g.co/kgs/H4bmuw)
 biblioteca para criação de rotas da API
 
 `npm install --save-dev @types/express`
-Para aproveitar as vantagens das expresstipagens (como no request: Request)
+Para aproveitar as vantagens das express tipagens (como no request: Request)
 
 `npm install --save http-status-codes`
 Constantes para facilitar leitura de [*http status code*](https://restfulapi.net/http-status-codes/)
